@@ -1,1 +1,2 @@
-# GAME-IN-REACT
+# react-hangman-game
+ 
